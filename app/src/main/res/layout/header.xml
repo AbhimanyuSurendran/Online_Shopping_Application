@@ -5,16 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="220dp"
     android:background="#FFFFFF"
-    android:backgroundTint="#E214A65F"
+    android:backgroundTint="#E28CE1B8"
     android:gravity="center_vertical"
     android:orientation="vertical"
     android:padding="14dp">
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_width="153dp"
+        android:layout_height="117dp"
+        tools:srcCompat="@drawable/app_icon" />
 
     <TextView
         android:id="@+id/textView3"

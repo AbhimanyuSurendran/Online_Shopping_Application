@@ -3,4 +3,16 @@
     <string name="title_activity_main_page">main_page</string>
     <string name="OpenNavigationDrawer">Open navigation drawer</string>
     <string name="CloseNavigationDrawer">Close navigation drawer</string>
+    <string name="headSet">Bluetooth HeadPhone</string>
+    <string name="mobilePhone">Smart Phone</string>
+    <string name="shoe">Stylish Shoes</string>
+    <string name="laptop">HP Gaming Laptop</string>
+    <string name="mouse">Gaming Mouse</string>
+    <string name="headSetPrice">₹800</string>
+    <string name="mobilePrice">₹15,000</string>
+    <string name="shoePrice">₹1,000</string>
+    <string name="laptopPrice">₹60,000</string>
+    <string name="mousePrice">₹500</string>
+    <string name="buy">Buy</string>
+
 </resources>
