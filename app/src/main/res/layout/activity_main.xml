@@ -41,7 +41,7 @@
     <LinearLayout
         android:id="@+id/linearLayout2"
         android:layout_width="357dp"
-        android:layout_height="347dp"
+        android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         android:background="#F6F6F6"
         android:orientation="vertical"
@@ -58,6 +58,7 @@
             android:ems="10"
             android:hint="Name"
             android:inputType="text"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <EditText
@@ -69,6 +70,7 @@
             android:ems="10"
             android:hint="Email"
             android:inputType="text"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <EditText
@@ -80,6 +82,7 @@
             android:ems="10"
             android:hint="Password"
             android:inputType="text"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <EditText
@@ -90,7 +93,8 @@
             android:backgroundTint="#07B6B6"
             android:ems="10"
             android:hint="Confirm Password"
-            android:inputType="text"
+            android:inputType="textPassword"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <Button
@@ -112,8 +116,9 @@
             android:onClick="login"
             android:text="Already have an account?"
             android:textColor="#07B6B6"
-            android:textSize="17dp"
-            android:textStyle="bold" />
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="TouchTargetSizeCheck" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

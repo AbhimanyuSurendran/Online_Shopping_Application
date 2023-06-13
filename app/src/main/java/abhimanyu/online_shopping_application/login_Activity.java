@@ -9,8 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class login_Activity extends AppCompatActivity {
-    private EditText email;
-    private EditText password;
+    private EditText email,password;
     private Button login;
     private SQL_database sql_database;
 

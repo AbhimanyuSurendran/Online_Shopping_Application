@@ -15,4 +15,11 @@
     <string name="mousePrice">₹500</string>
     <string name="buy">Buy</string>
 
+    <!-- content Description -->
+    <string name="hedSetPng">Head Phone Image</string>
+    <string name="mobilePng">Mobile Image</string>
+    <string name="shoePng">Shoe Image</string>
+    <string name="laptopPng">Laptop Image</string>
+    <string name="mousePng">Mouse Image</string>
+
 </resources>
